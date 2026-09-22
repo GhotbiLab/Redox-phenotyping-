@@ -9,4 +9,4 @@ ascorbate redox profiling, and stress-recovery phenotyping in maize and wheat.
 
 **14 core protocols · 5 advanced assays · QC framework · resilience metrics**
 
-[View protocol →](protocols/maize-wheat-redox-phenotyping/)
+[View protocol →][protocols/maize-wheat-redox-phenotyping/](https://github.com/GhotbiLab/Redox-phenotyping-/blob/main/22092026-Maize_Wheat_Redox_Phenotyping_SOP.pdf)
